@@ -10,6 +10,7 @@ They have kindly agreed to review and help update future contributions for the t
 
 *Maintainers*
 
+* [Yannick Langlois (ylanfr)](https://github.com/ylanfr) — [3+](https://github.com/jlevy/the-art-of-command-line/commits?author=23Pstars)/[1+](https://github.com/jlevy/the-art-of-command-line/issues?q=author%3Aylanfr) — _translation maintainer (id)_
 * [Ahmad Zafrullah (23Pstars)](https://github.com/23Pstars) — [3+](https://github.com/jlevy/the-art-of-command-line/commits?author=23Pstars)/[1+](https://github.com/jlevy/the-art-of-command-line/issues?q=author%3A23Pstars) — _translation maintainer (id)_
 * [Anna Damtsa (anna-d)](https://github.com/anna-d) — [24+](https://github.com/jlevy/the-art-of-command-line/commits?author=anna-d)/[7+](https://github.com/jlevy/the-art-of-command-line/issues?q=author%3Aanna-d) — _translation maintainer (el)_
 * [Carlos Mantilla (ceoaliongroo)](https://github.com/ceoaliongroo) — [29+](https://github.com/jlevy/the-art-of-command-line/commits?author=ceoaliongroo)/[16+](https://github.com/jlevy/the-art-of-command-line/issues?q=author%3Aceoaliongroo) — _translation maintainer (es)_
